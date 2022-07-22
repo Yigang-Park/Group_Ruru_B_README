@@ -13,9 +13,7 @@ library(dplyr)
 If you don't have the package following that, you will need to install it first
 
 install.packages("tidyverse")
-
 install.packages("dypyr")
-
 install.packages("ggwordcloud")
 
 
